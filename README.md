@@ -1,5 +1,3 @@
-Every inspiration on https://github.com/airscholar/e2e-data-engineering/tree/main and https://www.kaggle.com/code/tiagotgt/desmatamento-total-e-por-estado
-
 Apache Airflow: Responsável pela orquestração da pipeline de dados. Agendamento de tarefas, fluxo de execução e monitoramento são gerenciados pelo Airflow.
 
 Apache Kafka e Zookeeper: Utilizados para o stream de dados provenientes do PostgreSQL para a engine de processamento. Kafka atua como uma plataforma de mensagens distribuída e o Zookeeper é utilizado para coordenar e gerenciar o Kafka.
